@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
+    <version>0.0.0.0</version>
     <url>https://github.com/AndreasKrieger/BraveBox-Releases/releases/latest/download/BRAVE_Box_Windows.zip</url>
     <changelog>https://github.com/AndreasKrieger/DJBox/releases/latest</changelog>
     <mandatory>false</mandatory>
